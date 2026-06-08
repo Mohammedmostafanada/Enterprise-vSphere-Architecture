@@ -11,7 +11,7 @@ This project demonstrates the design and deployment of a highly available, enter
 * **Centralized Identity Management:** Active Directory (LDAP) integration for Single Sign-On (SSO) and Role-Based Access Control (RBAC).
 
 ## 🏗️ Infrastructure Topology
-![Infrastructure Topology](./topology.png)
+![Infrastructure Topology](images/topology.png)
 *The architecture utilizes a multi-layered approach (Management, Compute, Storage, and Network) to ensure maximum scalability and resilience.*
 
 ## 🚀 Implementation Steps (Workflow)
