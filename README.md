@@ -5,7 +5,7 @@ This project focuses on the design and deployment of a robust, enterprise-grade 
 
 ## 🏗️ Infrastructure Topology
 
-![Infrastructure Topology](images/topology.jpg)
+![Infrastructure Topology](images/topology.png)
 
 The architecture is built upon a multi-layered approach to ensure maximum scalability, manageability, and resilience:
 
